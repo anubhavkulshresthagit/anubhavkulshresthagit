@@ -6,7 +6,9 @@
 - 📫 How to reach me anubhavkulshrestha9@gmail.com
 
 
-
+</br>
+</br>
+</br>
 ### 🛠 Languages and Tools: 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
@@ -20,8 +22,10 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 
 </br>
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+</br>
+</br>
+<!-- <details>
+  <summary>:zap: Recent GitHub Activity</summary> -->
   
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -36,9 +40,9 @@
 
 
 
-</details>
+<!-- </details>
 
-<details>
+<details> -->
   <summary>:zap: GitHub Stats</summary>
 <p>
 
@@ -49,5 +53,5 @@
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshMishra12&" alt="UtkarshMishra12" /></p> -->
 
-</details>
-
+<!-- </details>
+ -->
