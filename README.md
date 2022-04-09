@@ -43,10 +43,10 @@
 <!-- </details>
 
 <details> -->
-### GitHub Stats
+
 <p>
 
-#### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/anubhav-kulshrestha-b318521a6/"><img src="https://img.shields.io/badge/-anubhavkulshresthagit-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anubhavkulshrestha9@gmail.com"><img src="https://img.shields.io/badge/-anubhavkulshrestha9@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
