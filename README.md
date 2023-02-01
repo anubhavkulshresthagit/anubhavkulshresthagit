@@ -1,7 +1,7 @@
 # Hi there, I'm [Anubhav Kulshrestha][Full Stack Web Developer] 👋 
 
 - 🌱 I’m currently learning MERN, DSA and Competitive programming
-- 🥅 2022 Goals: Learn more about web3, BlockChain
+- 🥅 2023 Goals: Learn more about web3, BlockChain
 - ⚡ Fun fact: I love to draw and Illustration
 - 📫 How to reach me anubhavkulshrestha9@gmail.com
 
